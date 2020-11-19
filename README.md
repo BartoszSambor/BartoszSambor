@@ -5,4 +5,4 @@ Jestem studentem AGH pierwszego roku na wydziale Elektrotechniki, Automatyki, In
 - 📫 How to reach me: bartek.sambor@gmail.com
 - ⚡ Fun fact: Koty nie tolerują laktozy.
 
-[Strona Internetowa](bartoszbambor.github.io)
+[Strona Internetowa](bartoszsambor.github.io)
