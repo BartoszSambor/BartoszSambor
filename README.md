@@ -6,3 +6,4 @@ Jestem studentem AGH pierwszego roku na wydziale Elektrotechniki, Automatyki, In
 - ⚡ Fun fact: Koty nie tolerują laktozy.
 
 [Strona Internetowa](https://bartoszsambor.github.io/)
+[Fork ciekawego artykułu](https://github.com/BartoszSambor/vedadet)
