@@ -2,8 +2,8 @@
 Jestem studentem AGH pierwszego roku na wydziale Elektrotechniki, Automatyki, Informatyki i Inżynierii Biomedycznej
 
 ### Currently working on:
-[Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze):
-- Quiz
+[Project-Maze](https://github.com/AGH-Narzedzia-Informatyczne/Project-Maze)
+
 
 
 - 📫 How to reach me: bartek.sambor@gmail.com
